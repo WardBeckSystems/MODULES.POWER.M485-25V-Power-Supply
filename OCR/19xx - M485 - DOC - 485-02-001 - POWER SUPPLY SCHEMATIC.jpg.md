@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (280, 12)–(432, 80) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRNPMAHONEY · M485 · ENG_ · +25V · POWER SUPPLY · SCHEMATIC · APP · SCALE · ISSUE · 485-02-001
 - **Wiring (first pass):** 42 connected wire groups from 209 runs; labelled ends: 182 mm → 34oo4F, 75v, s,10, c2; 170 mm → CRS, IN4004, R3, 0.472; 122 mm → RA, 0.472, CRB, 4003; 119 mm → TBI; 109 mm → c2, 340ouF, 75v, F2
 
-Every curve, box, word and wire group: [19xx - M485 - DOC - 485-02-001 - POWER SUPPLY SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M485%20-%20DOC%20-%20485-02-001%20-%20POWER%20SUPPLY%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M485 - DOC - 485-02-001 - POWER SUPPLY SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M485 - DOC - 485-02-001 - POWER SUPPLY SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M485%20-%20DOC%20-%20485-02-001%20-%20POWER%20SUPPLY%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M485 - DOC - 485-02-001 - POWER SUPPLY SCHEMATIC (traced).dxf`).
 
 ## Full text
 
