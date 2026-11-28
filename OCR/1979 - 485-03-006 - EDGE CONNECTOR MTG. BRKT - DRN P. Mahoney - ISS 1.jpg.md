@@ -1,5 +1,5 @@
 # 1979 - 485-03-006 - EDGE CONNECTOR MTG. BRKT - DRN P. Mahoney - ISS 1.jpg
-Wiki page: [M485](../../../../PAGES/M485.md)
+Wiki page: [M485](../)
 
 
 - **Year:** 1979 (title block date)

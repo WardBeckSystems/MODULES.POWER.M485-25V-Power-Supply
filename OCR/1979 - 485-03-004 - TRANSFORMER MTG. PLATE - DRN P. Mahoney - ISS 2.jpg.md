@@ -1,5 +1,5 @@
 # 1979 - 485-03-004 - TRANSFORMER MTG. PLATE - DRN P. Mahoney - ISS 2.jpg
-Wiki page: [M485](../../../../PAGES/M485.md)
+Wiki page: [M485](../)
 
 
 - **Year:** 1979 (title block date)
