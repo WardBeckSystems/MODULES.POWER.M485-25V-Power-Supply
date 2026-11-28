@@ -1,0 +1,141 @@
+{
+ "drawing": "Modules/UNSORTED/M485/MECHANICAL/1979 - 485-03-006 - EDGE CONNECTOR MTG. BRKT - DRN P. Mahoney - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/a14629f5f15c3beb.svg",
+ "sheet": {
+  "number": "B 485-03-006",
+  "title": "EDGE CONNECTOR / MTG. BRKT.",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [30.1, 9.1, 431.8, 297.7],
+ "outlines": {
+  "line": {"rings": 308, "straight": {"n": 4409, "mm": 10468.8}, "curved": {"n": 510, "mm": 700.7}},
+  "text": {"rings": 326, "straight": {"n": 2472, "mm": 2957.6}, "curved": {"n": 697, "mm": 1071.7}},
+  "tb": {"rings": 5, "straight": {"n": 90, "mm": 200.2}, "curved": {"n": 5, "mm": 7.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3679, "straight": {"n": 3818, "mm": 4850.8}, "curved": {"n": 17, "mm": 23.3}},
+   "text": {"paths": 2289, "straight": {"n": 3057, "mm": 2529.0}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 216, "straight": {"n": 236, "mm": 924.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 53,
+  "orientation": {"horizontal": {"n": 2029, "mm": 4286.1}, "vertical": {"n": 1643, "mm": 1641.7}, "diagonal": {"n": 3439, "mm": 2376.8}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [242.6, 201.0], "r": 2.9, "kind": "arc", "span": 97, "from": ["centre line"], "start": 4},
+  {"c": [241.8, 201.0], "r": 2.8, "kind": "arc", "span": 185, "from": ["centre line"], "start": 274},
+  {"c": [136.2, 200.3], "r": 2.8, "kind": "arc", "span": 101, "from": ["centre line"], "start": 276},
+  {"c": [137.2, 200.0], "r": 2.5, "kind": "arc", "span": 111, "from": ["centre line"], "start": 12}
+ ],
+ "boxes": [
+  {"mm": [130.2, 191.1, 248.7, 207.7], "w": 118.5, "h": 16.6, "from": "ring"},
+  {"mm": [130.6, 130.6, 249.4, 149.2], "w": 118.7, "h": 18.6, "from": "ring"},
+  {"mm": [140.8, 136.1, 239.2, 145.9], "w": 98.4, "h": 9.9, "from": "ring"},
+  {"mm": [345.7, 71.9, 410.9, 78.4], "w": 65.2, "h": 6.5, "from": "ring", "words": ["REVISION"], "in_title_block": true},
+  {"mm": [332.5, 71.9, 345.0, 77.9], "w": 12.5, "h": 6.0, "from": "ring", "words": ["DATE"], "in_title_block": true},
+  {"mm": [319.1, 71.5, 331.8, 77.7], "w": 12.7, "h": 6.2, "from": "ring", "words": ["ISSUE"], "in_title_block": true},
+  {"mm": [286.3, 53.1, 424.0, 71.5], "w": 137.7, "h": 18.4, "from": "ring", "words": ["WBS", "WARD-BECK", "systeMS"], "in_title_block": true},
+  {"mm": [255.6, 56.1, 258.0, 58.3], "w": 2.4, "h": 2.2, "from": "ring"},
+  {
+   "mm": [319.3, 27.2, 424.3, 53.6],
+   "w": 105.0,
+   "h": 26.4,
+   "from": "ring",
+   "words": ["CONNECTOR", "EDGE", "BRKT", "MTG:"],
+   "in_title_block": true
+  },
+  {"mm": [286.5, 39.8, 318.9, 46.4], "w": 32.4, "h": 6.6, "from": "ring", "words": ["ENG_"], "in_title_block": true},
+  {"mm": [286.5, 33.5, 318.9, 39.9], "w": 32.4, "h": 6.4, "from": "ring", "words": ["CKD E Tho"], "in_title_block": true},
+  {"mm": [286.5, 26.8, 318.9, 33.2], "w": 32.4, "h": 6.5, "from": "ring", "words": ["APP"], "in_title_block": true},
+  {"mm": [398.6, 14.5, 424.2, 27.2], "w": 25.7, "h": 12.7, "from": "ring", "words": ["ISSUE"]},
+  {"mm": [332.7, 14.1, 397.9, 27.0], "w": 65.2, "h": 12.9, "from": "ring", "words": ["485-03-006"]},
+  {"mm": [286.4, 13.8, 319.3, 26.6], "w": 32.9, "h": 12.7, "from": "ring", "words": ["SCALE 1:1", "XX", "1.015", "XxxI.Oos"]},
+  {"mm": [319.5, 14.0, 332.3, 26.6], "w": 12.7, "h": 12.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [181.1, 223.0, 197.3, 228.5], "text": "4.53"},
+   {"mm": [278.7, 221.3, 302.0, 227.3], "text": "130 DIA="},
+   {"mm": [304.2, 221.9, 337.7, 226.7], "text": "CSK 828 TO"},
+   {"mm": [278.3, 218.1, 335.9, 223.6], "text": "25DIA  ~ 2PLACES"},
+   {"mm": [93.7, 196.0, 101.7, 200.4], "text": "70"},
+   {"mm": [109.2, 192.2, 120.7, 197.7], "text": "450"},
+   {"mm": [112.5, 170.6, 128.2, 174.9], "text": "250 -"},
+   {"mm": [181.1, 171.2, 199.9, 176.0], "text": "4.030"},
+   {"mm": [54.8, 158.9, 112.1, 163.7], "text": "#4-40 UNC ~ZPLACES"},
+   {"mm": [113.1, 132.8, 124.4, 137.1], "text": "390"},
+   {"mm": [279.8, 126.9, 292.8, 131.3], "text": "\"375"},
+   {"mm": [282.0, 121.6, 292.8, 127.1], "text": "187"},
+   {"mm": [108.2, 116.2, 120.0, 121.0], "text": "375"},
+   {"mm": [182.2, 116.6, 199.5, 120.9], "text": "3.780"},
+   {"mm": [319.7, 72.3, 344.6, 76.6], "text": "ISSUE DATE"},
+   {"mm": [369.4, 73.0, 388.4, 77.3], "text": "REVISION"},
+   {"mm": [413.7, 73.0, 422.3, 77.3], "text": "APP:"},
+   {"mm": [295.4, 57.4, 419.1, 65.6], "text": "WBS WARD-BECK systeMS"},
+   {"mm": [188.7, 54.0, 252.8, 59.5], "text": "MATL:ALUMALLOY"},
+   {"mm": [255.0, 54.6, 279.4, 60.1], "text": "080 THK"},
+   {"mm": [9.5, 48.6, 65.0, 53.9], "text": "1-REMOVE BURRS"},
+   {"mm": [66.9, 47.7, 93.3, 54.2], "text": "2 SHARP"},
+   {"mm": [96.3, 49.2, 118.5, 54.7], "text": "EDGES"},
+   {"mm": [188.3, 46.6, 319.3, 53.1], "text": "EINISH: PAINTMATTE BLACK DRN RMNeY"},
+   {"mm": [214.6, 42.1, 264.7, 47.6], "text": "IEXCOTE VINYL"},
+   {"mm": [286.9, 40.4, 296.0, 45.9], "text": "ENG_"},
+   {"mm": [329.0, 41.7, 350.0, 46.9], "text": "EDGE"},
+   {"mm": [353.6, 41.2, 400.1, 47.7], "text": "CONNECTOR"},
+   {"mm": [287.1, 32.6, 315.6, 39.6], "text": "CKD E Tho"},
+   {"mm": [339.0, 32.6, 359.5, 39.6], "text": "MTG:"},
+   {"mm": [362.3, 33.2, 386.5, 39.7], "text": "BRKT"},
+   {"mm": [288.0, 27.6, 296.6, 32.0], "text": "APP"},
+   {"mm": [296.0, 21.6, 317.6, 25.9], "text": "SCALE 1:1"},
+   {"mm": [336.6, 17.3, 389.9, 23.7], "text": "485-03-006"},
+   {"mm": [405.7, 22.2, 418.0, 26.6], "text": "ISSUE"},
+   {"mm": [288.4, 18.4, 313.3, 22.2], "text": "XX 1.015"},
+   {"mm": [289.1, 14.5, 315.0, 18.8], "text": "XxxI.Oos"}
+  ],
+  "scale": "1:1"
+ },
+ "title_block": {
+  "mm": [278.5, 15.5, 431.0, 83.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "ISSUE DATE",
+   "REVISION",
+   "APP:",
+   "WBS WARD-BECK systeMS",
+   "ENG_",
+   "EDGE",
+   "CONNECTOR",
+   "CKD E Tho",
+   "MTG:",
+   "BRKT",
+   "APP",
+   "SCALE 1:1",
+   "485-03-006",
+   "ISSUE",
+   "XX 1.015",
+   "XxxI.Oos"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 485-03-006, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px); scale 1:1",
+  "- **Ink extent:** 30–432 mm across, 9–298 mm up",
+  "- **Outlines:** line 308 rings, 4,409 straight (10,469 mm) / 510 curved (701 mm); text 326 rings, 2,472 straight (2,958 mm) / 697 curved (1,072 mm); tb 5 rings, 90 straight (200 mm) / 5 curved (7.6 mm)",
+  "- **Centre lines:** 6,184 paths (53 closed); straight 8,304 mm, curved 23.3 mm; horizontal 4,286 mm, vertical 1,642 mm, diagonal 2,377 mm",
+  "- **Circles and arcs:** 0 circles, 4 arcs",
+  "- **Closed boxes:** 16 (8 in the title block); named: ISSUE; 485-03-006; SCALE 1:1 XX 1.015 XxxI.Oos",
+  "- **Words (OCR):** 46 in 37 lines: 4.53 · 130 DIA= · CSK 828 TO · 25DIA  ~ 2PLACES · 70 · 450 · 250 - · 4.030 · #4-40 UNC ~ZPLACES · 390 · \"375 · 187",
+  "- **Title block:** (278, 16)–(431, 83) mm: ISSUE DATE · REVISION · APP: · WBS WARD-BECK systeMS · ENG_ · EDGE · CONNECTOR · CKD E Tho · MTG: · BRKT · APP · SCALE 1:1 · 485-03-006 · ISSUE · XX 1.015 · XxxI.Oos"
+ ]
+}
